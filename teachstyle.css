@@ -1,0 +1,18 @@
+body{
+     
+    text-align: center;
+    padding: 30px;
+    /*background-color: rgb(5, 4, 31);*/
+}
+.forts{
+    color:rgb(234, 236, 243)
+}
+.image{
+    height: 300px;
+    width: 300px;
+
+}
+ #bg{
+     background-image: url('image/back1.jpeg');
+     background-size: 100% 100%;
+     }
